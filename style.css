@@ -1,0 +1,40 @@
+.Main h1{
+	background-color: #FFFFFF;
+	border: 5px solid #FFFFFF;
+	color: #FFFFFF;
+	font-family: "Ubuntu", sans-serif;
+	font-size: 20px;
+	letter-spacing: .6px;
+	margin-top: 85px;
+	margin-right: 500px;
+	margin-left: 500px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.Main ul{
+  position: relative;
+  width: 96%;
+}
+
+.Main a{
+	color: #FFB2B2;
+	font-family: "Ubuntu";
+	font-size: 15px;
+	letter-spacing: .7px;
+	text-decoration: none;
+}
+
+.Main a:hover{
+	border: 1px #A3A3A3 solid;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+html{
+	background: url(http://i.imgur.com/qjwIJCO.png) !important;
+	background-size: cover;
+  font-family: "Ubuntu";
+}
